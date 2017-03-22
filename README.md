@@ -1,5 +1,7 @@
 # tickets
 Python3    实现12306余票查询
+# 运行截图
+![image]()
 # 教程
 网址 http://www.jianshu.com/p/fc85b094949e
 # 备注
